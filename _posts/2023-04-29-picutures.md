@@ -6,7 +6,7 @@
 
 
     
-![jpeg](output_1_0.jpg)
+![./jpeg](output_1_0.jpg)
     
 
 
@@ -20,7 +20,7 @@
 
 
     
-![png](output_2_0.png)
+![./png](output_2_0.png)
     
 
 
@@ -34,7 +34,7 @@
 
 
     
-![png](output_3_0.png)
+![./png](output_3_0.png)
     
 
 
