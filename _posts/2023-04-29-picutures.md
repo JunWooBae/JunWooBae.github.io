@@ -1,10 +1,5 @@
 ```python
-from IPython.display import Image
-```
-
-
-```python
-Image("C:\\Users\\ran62\\OneDrive\\바탕 화면/p1.jpg")
+학교 야경
 ```
 
 
@@ -18,7 +13,7 @@ Image("C:\\Users\\ran62\\OneDrive\\바탕 화면/p1.jpg")
 
 
 ```python
-Image("C:\\Users\\ran62\\OneDrive\\바탕 화면/p2.png")
+오픈소스 그림1
 ```
 
 
@@ -32,7 +27,7 @@ Image("C:\\Users\\ran62\\OneDrive\\바탕 화면/p2.png")
 
 
 ```python
-Image("C:\\Users\\ran62\\OneDrive\\바탕 화면/p3.png")
+오픈소스 그림2
 ```
 
 
