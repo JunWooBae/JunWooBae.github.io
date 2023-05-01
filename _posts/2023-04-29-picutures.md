@@ -1,21 +1,16 @@
----
-layout: post
-title:  "사진 올려 봅니다"
----
-
 # 사진 올려봅니다
 
 학교 야경
 
-![학교 밤 모습](./output_1_0.jpg)
+![image](https://user-images.githubusercontent.com/102724085/235411148-8f782a0f-693e-4b19-af45-37b9537eee4d.png)
     
-오픈소스 그림1
+오픈소스 그림
 
-![오픈소스 그림1](./output_2_0.png)
+![image](https://user-images.githubusercontent.com/102724085/235411959-7cc7ec12-a9db-4ddc-9b2d-86171370ef63.png)
     
-오픈소스 그림2
+대구 수성못
 
-![오픈소스 그림2](./output_3_0.png)
+![image](https://user-images.githubusercontent.com/102724085/235411857-2f3416b8-7760-47d2-b9d8-86e8060da6c0.png)
     
 
 
