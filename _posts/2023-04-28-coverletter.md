@@ -14,6 +14,10 @@
 
 ![image](https://user-images.githubusercontent.com/102724085/235642176-3ee7b531-6803-41ce-9e82-0e0204446dfa.png)
 
+  ● 자격증: 컴퓨터 활용능력 1급, 토익 850, 정보처리기사, 한국사 1급
+  
+  ● 더 필요하다고 생각하는 capability: 인턴 경험(프로젝트 경험), 자소서 공통문항 작성, 전공 필기 준비
+
   ● 취미: 게임(롤)
 
 ![image](https://user-images.githubusercontent.com/102724085/235643695-a04d6361-0031-4faf-9952-ac7b51bb48d1.png)
