@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "JunWoo's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "BAE-Jun-Woo"
-description              : "An amazing website."
+name                     : "BAE Jun Woo"
+description              : "Always trying."
 url                      : "https://JunWooBae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bae Jun Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **trying** person."
   location         : "Somewhere"
-  email            :
+  email            : "ran6299@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
